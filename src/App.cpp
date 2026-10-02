@@ -3,9 +3,9 @@
 #include "controller/UserController.hpp"
 #include "controller/StaticController.hpp"
 
-#include "oatpp-1.4.0/oatpp-swagger/oatpp-swagger/Controller.hpp"
+#include "oatpp-swagger/Controller.hpp"
 
-#include "oatpp-1.4.0/oatpp/oatpp/network/Server.hpp"
+#include "oatpp/network/Server.hpp"
 
 #include <iostream>
 

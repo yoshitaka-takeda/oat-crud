@@ -3,9 +3,9 @@
 
 #include "dto/StatusDto.hpp"
 
-#include "oatpp-1.4.0/oatpp/oatpp/web/server/handler/ErrorHandler.hpp"
-#include "oatpp-1.4.0/oatpp/oatpp/web/protocol/http/outgoing/ResponseFactory.hpp"
-#include "oatpp-1.4.0/oatpp/oatpp/web/mime/ContentMappers.hpp"
+#include "oatpp/web/server/handler/ErrorHandler.hpp"
+#include "oatpp/web/protocol/http/outgoing/ResponseFactory.hpp"
+#include "oatpp/web/mime/ContentMappers.hpp"
 
 class ErrorHandler {
 
