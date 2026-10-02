@@ -42,3 +42,6 @@ cmake-build-debug/
 # sqlite
 **/*.sqlite
 /.vs
+
+# dotenv
+**.env
