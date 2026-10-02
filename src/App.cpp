@@ -1,5 +1,7 @@
 #include "AppComponent.hpp"
 
+#include "DotEnv.hpp"
+
 #include "controller/UserController.hpp"
 #include "controller/StaticController.hpp"
 
@@ -14,5 +16,5 @@ void run() {
 }
 
 int main(int argc, const char * argv[]) {
-    
+    // loadDotEnv("../.env");
 }
