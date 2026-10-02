@@ -10,5 +10,9 @@
 #include <iostream>
 
 void run() {
-    AppComponent component;
+    AppComponent components;
+}
+
+int main(int argc, const char * argv[]) {
+    
 }
